@@ -6,11 +6,11 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 
 ### Getting Ready
 
-- [ ] ♾️ 1 > [What is DevOps and  how does CNCF come in picture? - An Introduction]
+- [X] ♾️ 1 > [What is DevOps and  how does CNCF come in picture? - An Introduction]
 
 ### What is and why do we use DevOps
 
-- [ ] ♾️ 2 > 
+- [X] ♾️ 2 > Linux and Docker Workshop
 - [ ] ♾️ 3 > 
 - [ ] ♾️ 4 > 
 - [ ] ♾️ 5 > 
