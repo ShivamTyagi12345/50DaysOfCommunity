@@ -6,29 +6,29 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 
 ### Getting Ready
 
-- [X] ♾️ 1 > [What is DevOps and  how does CNCF come in picture? - An Introduction]
+- [ ] ♾️ 1 > [What is DevOps and  how does CNCF come in picture? - An Introduction]
 
 ### What is and why do we use DevOps
 
-- [X] ♾️ 2 > 
-- [X] ♾️ 3 > 
-- [X] ♾️ 4 > 
-- [X] ♾️ 5 > 
+- [ ] ♾️ 2 > 
+- [ ] ♾️ 3 > 
+- [ ] ♾️ 4 > 
+- [ ] ♾️ 5 > 
 - [ ] ♾️ 6 > 
 - [ ] ♾️ 7 > 
 - [ ] ♾️ 8 > 
 
 ### Knowing Linux Basics
 
-- [X] 🐧 9 > 
-- [X] 🐧 10 > 
-- [X] 🐧 11 > 
-- [X] 🐧 12 > 
+- [ ] 🐧 9 > 
+- [ ] 🐧 10 > 
+- [ ] 🐧 11 > 
+- [ ] 🐧 12 > 
 - [ ] 🐧 13 > 
 - [ ] 🐧 14 > 
 - [ ] 🐧 15 > 
 
-### Understand Networking
+### Understand Networking AND Use Git & YAML Effectively
 
 - [ ] 🌐 16 >
 - [ ] 🌐 17 >
@@ -38,14 +38,14 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 - [ ] 🌐 21 >
 - [ ] 🌐 22 >
 
-### Use Git & YAML Effectively
+### Stick to one Cloud Provider && Learning a Programming Language
 
 - [ ] 📚 23 > 
 - [ ] 📚 24 > 
 - [ ] 📚 25 > 
 - [ ] 📚 26 > 
  
-### Stick to one Cloud Provider
+### Virtualisation & Containers 
 
 - [ ] ☁️ 27 > 
 - [ ] ☁️ 28 > 
@@ -55,7 +55,9 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 - [ ] ☁️ 32 > 
 - [ ] ☁️ 33 > 
 
-### Learning a Programming Language
+
+### Kubernetes
+
 
 - [ ] ⌨️ 34 > 
 - [ ] ⌨️ 35 > 
@@ -65,7 +67,7 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 - [ ] ⌨️ 39 > 
 - [ ] ⌨️ 40 > 
 
-### Virtualisation & Containers 
+### Learn Infrastructure as Code and Storing & Protect Your Data
 
 - [ ] 🏗️ 41 > 
 - [ ] 🏗️ 42 > 
@@ -75,7 +77,8 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 - [ ] 🏗️ 46 > 
 - [ ] 🏗️ 47 > 
 
-### Kubernetes
+
+### Create CI/CD Pipelines and Store & Protect Your Data
 
 - [ ] ☸ 48 > 
 - [ ] ☸ 49 > 
@@ -85,7 +88,7 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 - [ ] ☸ 53 > 
 - [ ] ☸ 54 > 
 
-### Learn Infrastructure as Code
+### Monitoring, Log Management, and Data Visualisation
 
 - [ ] 🤖 55 > 
 - [ ] 🤖 56 > 
@@ -95,48 +98,6 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 - [ ] 🤖 60 > 
 - [ ] 🤖 61 > 
 
-### Automate Configuration Management
 
-- [ ] 📜 62 > 
-- [ ] 📜 63 > 
-- [ ] 📜 64 > 
-- [ ] 📜 65 > 
-- [ ] 📜 66 > 
-- [ ] 📜 67 > 
-- [ ] 📜 68 > 
-
-### Create CI/CD Pipelines 
-
-- [ ] 🔄 69 > 
-- [ ] 🔄 70 >
-- [ ] 🔄 71 > 
-- [ ] 🔄 72 > 
-- [ ] 🔄 73 > 
-- [ ] 🔄 74 > 
-- [ ] 🔄 75 > 
-
-### Monitoring, Log Management, and Data Visualisation
-
-- [ ] 📈 76 > 
-- [ ] 📈 77 > 
-- [ ] 📈 78 > 
-- [ ] 📈 79 > 
-- [ ] 📈 80 > 
-- [ ] 📈 81 > 
-- [ ] 📈 82 > 
-
-### Store & Protect Your Data
-
-- [ ] 🗃️ 83 > 
-- [ ] 🗃️ 84 > 
-- [ ] 🗃️ 85 > 
-- [ ] 🗃️ 86 >
-- [ ] 🗃️ 87 > 
-- [ ] 🗃️ 88 > 
-- [ ] 🗃️ 89 >
-
-### Engame
-
-- [ ] 🗃️ 90 > 
 
 🚧
