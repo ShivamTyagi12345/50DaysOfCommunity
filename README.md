@@ -6,11 +6,10 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 
 ### Getting Ready
 
-- [ ] ♾️ 1 > What is DevOps and  how does CNCF come in picture? - An Introduction, Linux Commands HandsOn Intro
-
+- [x] ♾️ 1 > [What is DevOps and  how does CNCF come in picture? - An Introduction, Linux Commands HandsOn Intro](https://github.com/ShivamTyagi12345/50DaysOfCommunity/blob/main/Days/Day1/Kubesimplify%20Linux%20and%20Docker%20Fundamentals%20095f668c0f3a4cf6a415fce8ce88751e.md)
 ### What is and why do we use DevOps
 
-- [ ] ♾️ 2 > Kubernetes 101 using KillerCoda
+- [x] ♾️ 2 > [Kubernetes 101 using KillerCoda](https://github.com/ShivamTyagi12345/50DaysOfCommunity/blob/main/Days/Day2/Kubernetes%20101%20e776a2fc5a494054891760d93ccdc6df.md)
 - [ ] ♾️ 3 > 
 - [ ] ♾️ 4 > 
 - [ ] ♾️ 5 > 
