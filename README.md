@@ -6,11 +6,11 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 
 ### Getting Ready
 
-- [ ] ♾️ 1 > [What is DevOps and  how does CNCF come in picture? - An Introduction]
+- [ ] ♾️ 1 > What is DevOps and  how does CNCF come in picture? - An Introduction, Linux Commands HandsOn Intro
 
 ### What is and why do we use DevOps
 
-- [ ] ♾️ 2 > 
+- [ ] ♾️ 2 > Kubernetes 101 using KillerCoda
 - [ ] ♾️ 3 > 
 - [ ] ♾️ 4 > 
 - [ ] ♾️ 5 > 
