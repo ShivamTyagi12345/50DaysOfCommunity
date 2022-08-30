@@ -10,7 +10,7 @@ This Is a SelfHosted Repository that shall help me successfully learn the Devops
 ### What is and why do we use DevOps
 
 - [x] ♾️ 2 > [Kubernetes 101 using KillerCoda](https://github.com/ShivamTyagi12345/50DaysOfCommunity/blob/main/Days/Day2/Kubernetes%20101%20e776a2fc5a494054891760d93ccdc6df.md)
-- [ ] ♾️ 3 > 
+- [x] ♾️ 3 > [Computer Networking](https://github.com/ShivamTyagi12345/50DaysOfCommunity/blob/main/Days/Day3/Networking%20543a9d671936487387703ed2794df631.md)
 - [ ] ♾️ 4 > 
 - [ ] ♾️ 5 > 
 - [ ] ♾️ 6 > 
